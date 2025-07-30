@@ -1,11 +1,10 @@
 # DAWS: The AI-Powered All-in-One Platform for Modern Business
 
-![DAWS Logo](assets/logo.svg)
+<img src="assets/logo.svg" alt="DAWS Logo" width="120" height="auto" />
+
 [![GitHub license](https://img.shields.io/github/license/taryaoui/DAWS-public)](https://github.com/taryaoui/DAWS-public/blob/main/LICENSE)
 
 Welcome to **DAWS (D&A WorkSpace)** — the next-generation, AI-driven platform designed to unify, empower, and future-proof your organization. DAWS is more than just software: it’s your company’s digital backbone for the AI era, built to accelerate growth, boost productivity, and ensure security and compliance at every step.
-
----
 
 ---
 
@@ -71,8 +70,9 @@ DAWS Platform
 ├── ... (Extensible & Custom Modules)
 ```
 
-<details>
-<summary>🖼️ <b>See how DAWS brings your business together (click to expand)</b></summary>
+---
+
+### 🖼️ See how DAWS brings your business together
 
 ```mermaid
 graph TD
@@ -91,9 +91,9 @@ graph TD
     G -- "Growth & Insights" --> A
 ```
 
-<sub><i>This diagram shows how DAWS unifies all your business functions in one easy-to-use platform. Each module is connected, making your work seamless and efficient.</i></sub>
+_This diagram shows how DAWS unifies all your business functions in one easy-to-use platform. Each module is connected, making your work seamless and efficient._
 
-</details>
+---
 
 **Main Modules:**
 
